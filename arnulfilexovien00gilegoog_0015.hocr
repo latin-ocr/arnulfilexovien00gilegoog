@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./arnulfilexovien00gilegoog_0015.png"; bbox 0 0 2834 4920; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 512 888 934 1373">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 512 888 934 1373">
+     <span class='ocr_line' id='line_1_1' title="bbox 512 888 934 992; baseline 0.017 -28"><span class='ocrx_word' id='word_1_1' title='bbox 512 888 934 992; x_wconf 64' lang='lat' dir='ltr'>flarvardconegetibrary</span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 573 989 870 1068; baseline 0.003 -3"><span class='ocrx_word' id='word_1_2' title='bbox 573 989 674 1066; x_wconf 82' lang='lat' dir='ltr'>Bowie</span> <span class='ocrx_word' id='word_1_3' title='bbox 697 990 870 1068; x_wconf 59' lang='lat' dir='ltr'>collection</span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 657 1089 779 1165; baseline -0.041 0"><span class='ocrx_word' id='word_1_4' title='bbox 657 1089 723 1165; x_wconf 72' lang='lat' dir='ltr'>Gift</span> <span class='ocrx_word' id='word_1_5' title='bbox 746 1089 779 1163; x_wconf 66' lang='lat' dir='ltr'>of</span> 
+     </span>
+     <span class='ocr_line' id='line_1_4' title="bbox 522 1184 917 1280; baseline -0.003 -18"><span class='ocrx_word' id='word_1_6' title='bbox 522 1185 594 1263; x_wconf 76' lang='lat' dir='ltr'>Mrs.</span> <span class='ocrx_word' id='word_1_7' title='bbox 620 1184 649 1262; x_wconf 83' lang='grc' dir='ltr'>Ε.</span> <span class='ocrx_word' id='word_1_8' title='bbox 676 1186 706 1262; x_wconf 88' lang='lat' dir='ltr'>D.</span> <span class='ocrx_word' id='word_1_9' title='bbox 733 1185 917 1280; x_wconf 76' lang='lat' dir='ltr'>Brandegeo</span> 
+     </span>
+     <span class='ocr_line' id='line_1_5' title="bbox 603 1283 835 1373; baseline -0.017 -13"><span class='ocrx_word' id='word_1_10' title='bbox 603 1283 675 1361; x_wconf 82' lang='grc' dir='ltr'>Νον.</span> <span class='ocrx_word' id='word_1_11' title='bbox 692 1289 722 1373; x_wconf 80' lang='lat'>9,</span> <span class='ocrx_word' id='word_1_12' title='bbox 744 1284 835 1361; x_wconf 73' lang='lat'>1908.</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 0 0 1422 4920">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 0 0 1422 4920">
+     <span class='ocr_line' id='line_1_6' title="bbox 0 0 1422 4920; baseline 0 0"><span class='ocrx_word' id='word_1_13' title='bbox 0 0 1422 4920; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
